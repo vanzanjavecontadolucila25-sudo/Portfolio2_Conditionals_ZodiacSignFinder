@@ -1,4 +1,9 @@
-##Read Me: In fulfillment for the subject BES 10a, this project is a Python-based Zodiac Sign Finder that gives users' their respective zodiac signs based on their birth month and birth date. It demonstrates basic programming concepts such as user input and print functions for interaction, type conversion for data processing, and try/except blocks for error validation. The code features multi-way decisions using if, elif, and else structures alongside nested decisions to categorize birth dates, while utilizing proper indentation and comparison operators to ensure precise logic throughout the project.
+##Read Me: In fulfillment for the subject BES 10a, this project is a Python-based Zodiac Sign Finder that
+#gives users' their respective zodiac signs based on their birth month and birth date. It demonstrates
+#basic programming concepts such as user input and print functions for interaction, type conversion for 
+#data processing, and try/except blocks for error validation. The code features multi-way decisions using 
+#if, elif, and else structures alongside nested decisions to categorize birth dates, while utilizing proper 
+#indentation and comparison operators to ensure precise logic throughout the project.
 
 #The informations used in classifying zodiac signs was acquired from allure.com 
 #source link: https://www.allure.com/story/zodiac-sign-personality-traits-dates
